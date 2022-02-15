@@ -37,9 +37,9 @@ Choose your weapon and face-off against the computer opponent in this battle for
 | --- | --- |
 Rock | Smashes Scissors and Crushes Lizard
 Paper | Covers Rock and Disproves Spock
-Scissors | Cut Paper and Decapitates Lizard
+Scissors | Cuts Paper and Decapitates Lizard
 Lizard | Eats Paper and Poisons Spock
-Spock | Vaporizes RRock and Smashes Scissors
+Spock | Vaporizes Rock and Smashes Scissors
 
 #### Starting the Application
 If this is the program’s first time running, you will be presented with a message letting you know that the High Scores table is being built and set up which may take a moment. Afterwards, you will be presented with the Main Menu as shown below.
