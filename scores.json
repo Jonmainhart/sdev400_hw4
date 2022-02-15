@@ -1,0 +1,122 @@
+{
+    "highscores": [      
+      {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "1"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "2"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "3"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "4"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "5"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "6"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "7"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "8"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+        
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "9"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        },
+              {
+            "PutRequest": {
+                "Item": {
+                    "ID": {"N": "10"},
+                    "name": {"S": "AAA"},
+                    "wins": {"N": "0"},
+                    "ties": {"N": "0"},
+                    "losses": {"N": "0"}
+                }
+            }
+        }
+    ]
+}

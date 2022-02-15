@@ -1,0 +1,19 @@
+{
+    "TableName": "highscores",
+        "KeySchema": [
+        {
+            "AttributeName": "ID",
+            "KeyType": "HASH"  
+        }
+        ],
+         "AttributeDefinitions": [
+        {
+            "AttributeName": "ID",
+            "AttributeType": "N"
+        }
+        ],
+        "ProvisionedThroughput": {
+        "ReadCapacityUnits": 10,
+        "WriteCapacityUnits": 10
+        }
+}
