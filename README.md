@@ -31,16 +31,15 @@ Users also have the option of resetting the high scores table back to the initia
 ## User Manual
 Rock-Paper-Scissors-Lizard-Spock is a twist on the classic game of Rock-Paper-Scissors (also known as "Rochambeau", "roshambo", or "ro-sham-bo"). It is a two-player game with only two possible outcomes: Either one player wins and the other loses, or the game ends in a tie.
 
-Choose your weapon and face-off against the computer opponent in this battle for playground supremacy! Table 1 shows which weapon wins.
-##### Table 1
-*Weapons*
+Choose your weapon and face-off against the computer opponent in this battle for playground supremacy! The table below shows which weapon wins.
+##### Weapons
 | Weapon | ...beats |
-| --- | --- | --- |
-Rock | Smashes Scissors | Crushes Lizard
-Paper | Covers Rock | Disproves Spock
-Scissors | Cut Paper | Decapitates Lizard
-Lizard | Eats Paper | Poisons Spock
-Spock | Vaporizes RRock | Smashes Scissors
+| --- | --- |
+Rock | Smashes Scissors and Crushes Lizard
+Paper | Covers Rock and Disproves Spock
+Scissors | Cut Paper and Decapitates Lizard
+Lizard | Eats Paper and Poisons Spock
+Spock | Vaporizes RRock and Smashes Scissors
 
 #### Starting the Application
 Launch the application by typing python3 homework4 and pressing ‘Enter’ or ‘Return’ on the command line.
@@ -48,6 +47,7 @@ Launch the application by typing python3 homework4 and pressing ‘Enter’ or �
 If this is the program’s first time running, you will be presented with a message letting you know that the High Scores table is being built and set up which may take a moment. Afterwards, you will be presented with the Main Menu as shown below.
 
 Main Menu
+
 ![Main Menu](/images/image001.png "Main Menu")
 
 #### Main Menu Options
@@ -64,34 +64,40 @@ The user can select their choice by typing the number of their choice and pressi
 The Game Menu displays your choices as shown below. Enter the number of your choice and press enter to play.
 
 Game Menu
+
 ![Game Menu](/images/image002.png "Game Menu")
 
 The computer will select a random weapon to play against you, a winner will be determined, your cumulative score will be updated, and you will be asked if you wish to play again as shown below.
 
 Game Play
+
 ![Game Play](/images/image003.png "Game Play")
 
 Enter ‘n’ when you are finished playing. You will be asked for your initials as shown below and your score will be compared against the high scores. If your score is in the Top 10, it will be added to the high scores list. You will be returned to the Main Menu when the game is finished.
 
 Finishing the Game
+
 ![Finishing the Game](/images/image004.png "Finishing the Game")
 
 #### Viewing the High Scores
 You can view the high scores by selecting option 2 on the Main Menu. When selected, the top ten high scores will be displayed as shown below. Pressing ‘enter’ will return you to the Main Menu.
 
 High Scores
+
 ![High Scores](/images/image005.png "High Scores")
 
 #### In-Game Rules
 You can review the rules while playing the game by selecting option 3 from the Main Menu as shown below. Pressing ‘enter’ will return you to the Main Menu
 
 Rules
+
 ![Rules](/images/image006.png "Rules")
 
 #### Saving High Scores
 High scores will be automatically saved to the cloud when you exit the application. However, you may save the scores manually before you exit by selecting option 4 on the Main Menu as shown below.
 
 Saving Scores
+
 ![Saving Scores](/images/image007.png "Saving")
 
 #### Resetting High Scores
@@ -99,6 +105,7 @@ You may reset the high scores saved in the cloud back to default values by selec
 <span style="color:red;font-weight:700;font-size:20px">WARNING:</span> Resetting scores is permanent and cannot be undone.
 
 Resetting Scores
+
 ![Resetting Scores](/images/image008.png "Resetting Scores")
 
 #### Exiting the Game
