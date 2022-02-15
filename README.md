@@ -42,8 +42,6 @@ Lizard | Eats Paper and Poisons Spock
 Spock | Vaporizes RRock and Smashes Scissors
 
 #### Starting the Application
-Launch the application by typing python3 homework4 and pressing ‘Enter’ or ‘Return’ on the command line.
-
 If this is the program’s first time running, you will be presented with a message letting you know that the High Scores table is being built and set up which may take a moment. Afterwards, you will be presented with the Main Menu as shown below.
 
 Main Menu
